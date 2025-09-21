@@ -8,9 +8,9 @@
 Пример использованной библиотеки LCD https://deepbluembedded.com/stm32-i2c-lcd-library-example-16x2-20x4-multiple-lcds/ 
 
 Использование функции в CubeIDE 
-
+```c
 I2C_LCD_WriteString(MyI2C_LCD, RuChar("Привет STM32 !!!"));
-
+```
 
 
 
