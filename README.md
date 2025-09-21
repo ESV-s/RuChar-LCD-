@@ -5,4 +5,10 @@
 было создано решение, чтобы сделать реализацию этого действия более легким .
 
 
+Пример использованной библиотеки LCD https://deepbluembedded.com/stm32-i2c-lcd-library-example-16x2-20x4-multiple-lcds/ 
+
+
+
+
+
 
