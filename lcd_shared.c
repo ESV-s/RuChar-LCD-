@@ -1,4 +1,4 @@
-```c
+
 /* Таблица кириллицы*/
 char str_str[] =
 "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ"
@@ -44,5 +44,3 @@ char* RuChar(const char *s)
     }
     return RuChar_buf;
 }
-
-```
