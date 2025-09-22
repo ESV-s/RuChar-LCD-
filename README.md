@@ -7,6 +7,11 @@
 
 Пример использованной библиотеки LCD https://deepbluembedded.com/stm32-i2c-lcd-library-example-16x2-20x4-multiple-lcds/ 
 
+Использование кириллицы в CubeIDE : 
+      в настройках добавить флаги 
+```c
+-finput-charset=UTF-8 -fexec-charset=cp1251
+```
 Использование функции в CubeIDE 
 ```c
 I2C_LCD_WriteString(MyI2C_LCD, RuChar("Привет STM32 !!!"));
